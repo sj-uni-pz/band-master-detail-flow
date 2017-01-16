@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BandMasterDetail</string>
+    <string name="nameTextView">Name:</string>
+    <string name="genreTextView">Genre:</string>
+    <string name="descHint">Description</string>
+    <string name="saveButton">Save</string>
+    <string name="list">All bands</string>
+    <string name="add">Add band</string>
+
+    <string-array name="genres">
+        <item>Alternative Rock</item>
+        <item>Blues</item>
+        <item>Classic Rock</item>
+        <item>Jazz</item>
+        <item>Metal</item>
+        <item>Pop</item>
+        <item>R&amp;B</item>
+    </string-array>
+
+</resources>
